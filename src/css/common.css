@@ -17,12 +17,16 @@ img {
   max-width: 100%;
 }
 
-button {
+/* [data-stop] {
   margin-top: 200px;
   width: 100px;
   height: 50px;
   font-size: 20px;
 }
 [data-start] {
-  margin-left: 600px;
-}
+  margin-left: 580px;
+  margin-top: 200px;
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+} */
